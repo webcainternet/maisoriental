@@ -188,10 +188,32 @@ $('body').prepend('<iframe src="<?php echo $store; ?>" style="display: none;"></
 						<div id="logo"><a href="<?php echo $home; ?>"><img src="<?php echo $logo; ?>" title="<?php echo $name; ?>" alt="<?php echo $name; ?>" /></a></div>
 					<?php } ?>
 					
-					<div class="phone">
+					<div class="phone" style="display: none;">
 						<?php echo $tx_phone; ?><br>
 						<i class="fa fa-phone"></i>
 						<span><?php echo $telephone;?></span>
+					</div>
+
+					<div style="float: left; margin-left: 10%; width: 345px; height: 38px; margin-top: 27px;">
+						<div id="search">
+							<div class="inner">
+								<div class="button-search">
+									<i class="fa fa-search"></i>
+									<span>Digite aqui para buscar algum produto...</span>
+								</div>
+								<input type="text" name="search" placeholder="" value="">
+							</div>
+						</div>
+					</div>
+
+					<div id="search" style="display: none;">
+						<div class="inner">
+							<div class="button-search">
+								<i class="fa fa-search"></i>
+								<span>Digite aqui para buscar algum produto...</span>
+							</div>
+							<input type="text" name="search" placeholder="" value="">
+						</div>
 					</div>
 
 					<div class="cart-position">
@@ -238,15 +260,7 @@ $('body').prepend('<iframe src="<?php echo $store; ?>" style="display: none;"></
 						<i class="fa fa-phone"></i>
 						<span><?php echo $telephone;?></span>
 				</div>
-				<div id="search">
-					<div class="inner">
-						<div class="button-search">
-							<i class="fa fa-search"></i>
-							<span><?php echo $text_search; ?></span>
-						</div>
-						<input  type="text" name="search" placeholder="" value="" />
-					</div>
-				</div>
+				
 			</div>
 		</div>
 		
