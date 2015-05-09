@@ -361,6 +361,7 @@ header .phone i{
 	background:#fff;
 	padding-top:12px;
 	padding-bottom:5px;
+	display: none;
 }
 header {
 	position: relative;
