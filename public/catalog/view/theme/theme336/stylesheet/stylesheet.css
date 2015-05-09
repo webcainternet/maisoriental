@@ -1006,6 +1006,7 @@ header .top_color{
 	background:#e2f1ff;
 	position:relative;
 	padding: 25px 0 25px;
+	border-top: solid 4px #3067af;
 }
 header .top_color .mini-cart-info{
 	text-align:left;
