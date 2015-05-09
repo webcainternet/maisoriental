@@ -170,7 +170,7 @@
 	color:#333;
 	}
 .camera_caption  h2 {
-	color:#6eb032;
+	color:#dc4545;
 	font-size:36px;
 	line-height:34px;
 	margin-bottom:0;
@@ -199,7 +199,7 @@
 		background:#333;
 	}
 .cameraContent:hover div> span{
-	background:#91c537;
+	background:#3067af;
 	}
 .camera_caption a:after {
 	position:absolute;
@@ -355,7 +355,7 @@
 	z-index: 2;	
 }
 .camera_prev > span , .camera_next > span {
-	background:#6eb032;
+	background:#dc4545;
 	display: block;
 	height: 40px;
 	width: 40px;

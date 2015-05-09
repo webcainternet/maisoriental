@@ -303,7 +303,7 @@ a#hidden {
 #back-top span:before {
 	content:'\f077';
 	font-family: FontAwesome;
-	background-color:#6eb032;
+	background-color:#dc4545;
 	color:#fff;
 	font-size:25px;
 	line-height:38px;
@@ -602,7 +602,7 @@ header .header-button>ul li span {
 	display:block;
 	}
 header .header-button>ul li span:hover {	
-	background-color:#6eb032;
+	background-color:#dc4545;
 	}
 /*********************************************************************************************Swipe Control*******************************************************************************************/
 body div.shadow{display:none;}
@@ -715,7 +715,7 @@ header #cart-total {
 	display: inline;
 	width: 28px;
 	height: 28px;
-	background: #6eb032;
+	background: #dc4545;
 	float: left;
 	border-radius: 100%;
 	-moz-border-radius: 100%;
@@ -848,7 +848,7 @@ header #cart .cart .remove i {
 	font-size:14px;
 	line-height:normal;
 	margin-right:3px;
-	color:#6EB032;
+	color:#dc4545;
 	height:auto;
 	}
 header #cart .cart .remove img:hover {
@@ -970,7 +970,7 @@ header .links a{
 header .links a span{
 	display:inline-block;
 	width:34px;
-	color:#6eb032;
+	color:#dc4545;
 	text-align:center;
 	background:#fff;
 	border-radius:34px;
@@ -982,14 +982,14 @@ header .links a span{
 header .links a.active, header .links a:hover {	
 	text-decoration:none;
 	/**grad--**/	
-	background-color: #6eb032;
-	background-image: -moz-linear-gradient(top, #6eb032, #60992c);
-	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#6eb032), to(#60992c));
-	background-image: -webkit-linear-gradient(top, #6eb032, #60992c);
-	background-image: -o-linear-gradient(top, #6eb032, #60992c);
-	background-image: linear-gradient(to bottom, #6eb032, #60992c);
+	background-color: #dc4545;
+	background-image: -moz-linear-gradient(top, #dc4545, #ff5556);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#dc4545), to(#ff5556));
+	background-image: -webkit-linear-gradient(top, #dc4545, #ff5556);
+	background-image: -o-linear-gradient(top, #dc4545, #ff5556);
+	background-image: linear-gradient(to bottom, #dc4545, #ff5556);
 	background-repeat: repeat-x;
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff6eb032', endColorstr='#ff60992c', GradientType=0);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffdc4545', endColorstr='#ffff5556', GradientType=0);
 	/**--grad**/
 	}
 header .links a {
@@ -1087,7 +1087,7 @@ header .top_color:after{
 	cursor:pointer;
 	}
 #search .button-search:hover i{
-	color:#6eb032;
+	color:#dc4545;
 	}
 #search input {
 	float:left;
@@ -2158,11 +2158,11 @@ h1.style-1 {
 	color:#333;
 }
 #list_b i, #grid_b i {
-	color:#6eb032;
+	color:#dc4545;
 	cursor:default
 	}
 #grid_a:hover i, #list_a:hover i{
-	color:#6eb032;
+	color:#dc4545;
 }
 .product-filter .display {
 	position:relative;
@@ -2545,7 +2545,7 @@ img#captcha {
 	line-height:normal;
 	}
 .compare-block .remove a i{
-	color:#6EB032;
+	color:#dc4545;
 	}
 .compare-block .remove a:hover i{
 	color:#8db699;
@@ -3056,7 +3056,7 @@ a.button-back-left i,.button-back-left i, .button-return-right-i i, a.button-ret
 	text-align:center;
 	vertical-align:middle;
 	margin:0 9px;
-	color:#6eb032;
+	color:#dc4545;
 	}
 i.fa.fa-arrow-circle-right {margin-right:0 !important;}
 a.button-order-right {
@@ -3162,7 +3162,7 @@ a:hover i.fa.fa-trash-o-o {
 	background-color:#fff;
 }
 a i.fa.fa-trash-o-o {
-	color:#6EB032;
+	color:#dc4545;
 	}
 i.fa.fa-trash-o-o {
 	font-size:26px;
@@ -3210,7 +3210,7 @@ a.input-update {
 	}
 .mt5 {margin-top:5px;}
 a.input-update i{
-	color: #6EB032;
+	color: #dc4545;
 	font-size:26px;
 	}
 a.input-update:hover i{
@@ -3413,7 +3413,7 @@ span.toggle {
 	color:#777;
 }
 .social ul li a:hover i{
-	color:#6eb032;
+	color:#dc4545;
 }
 .return-captcha input img {vertical-align:top;}
 .return-captcha input {
@@ -3554,7 +3554,7 @@ span.toggle {
 	font-size:24px;
 	color:#1b1b1b;
 }
-.success span:hover {cursor:pointer; color:#6EB032;}
+.success span:hover {cursor:pointer; color:#dc4545;}
 .success span {
 	overflow:hidden;
 	position:absolute;
@@ -3563,15 +3563,15 @@ span.toggle {
 	opacity:1
 }
 .success i {color:#333}
-.success i:hover {color:#6EB032;}
+.success i:hover {color:#dc4545;}
 .success i.fa.fa-thumbs-up{
 	font-size:31px;
-	color:#6EB032;
+	color:#dc4545;
 	margin-right:10px;
 	}
 .close {color:transparent; text-shadow:none}
 .success a {color:#333;}
-.success a:hover {color:#6EB032;}
+.success a:hover {color:#dc4545;}
 .success {
 	width:100%;
 	position:fixed;
@@ -3791,7 +3791,7 @@ a.button-prod, .cart a.button, .wishlist a, .compare a{
 	width:41px;
 	padding:0;
 	text-align:center;
-	background:#6eb032;
+	background:#dc4545;
 	border-radius:41px;
 	-moz-border-radius:41px;
 	-webkit-border-radius:41px;
@@ -3829,7 +3829,7 @@ a.button-prod, .cart a.button, .wishlist a, .compare a{
 	height:41px;
 	width:41px;
 	text-align:center;
-	background:#6eb032;
+	background:#dc4545;
 	border-radius:41px;
 	-moz-border-radius:41px;
 	-webkit-border-radius:41px;
