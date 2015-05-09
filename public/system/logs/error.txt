@@ -1,0 +1,81 @@
+2013-11-20 9:59:41 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\wamp\www\+bootstrap3\system\library\mail.php on line 150
+2013-11-25 13:45:17 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\wamp\www\+bootstrap3\system\library\mail.php on line 150
+2013-11-25 14:28:01 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\wamp\www\+bootstrap3\system\library\mail.php on line 150
+2013-11-25 14:29:07 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\wamp\www\+bootstrap3\system\library\mail.php on line 150
+2013-11-25 15:55:23 - PHP Warning:  Missing argument 4 for Cart::add(), called in D:\wamp\www\+bootstrap3\catalog\controller\account\order.php on line 41 and defined in D:\wamp\www\+bootstrap3\system\library\cart.php on line 318
+2013-11-25 15:55:23 - PHP Notice:  Undefined variable: profile_id in D:\wamp\www\+bootstrap3\system\library\cart.php on line 327
+2013-11-25 15:55:23 - PHP Warning:  Missing argument 4 for Cart::add(), called in D:\wamp\www\+bootstrap3\catalog\controller\account\order.php on line 41 and defined in D:\wamp\www\+bootstrap3\system\library\cart.php on line 318
+2013-11-25 15:55:23 - PHP Notice:  Undefined variable: profile_id in D:\wamp\www\+bootstrap3\system\library\cart.php on line 327
+2013-11-25 15:55:23 - PHP Warning:  Missing argument 4 for Cart::add(), called in D:\wamp\www\+bootstrap3\catalog\controller\account\order.php on line 41 and defined in D:\wamp\www\+bootstrap3\system\library\cart.php on line 318
+2013-11-25 15:55:23 - PHP Notice:  Undefined variable: profile_id in D:\wamp\www\+bootstrap3\system\library\cart.php on line 327
+2013-12-17 15:08:55 - PHP Notice:  Undefined variable: text_google in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 60
+2013-12-17 15:08:55 - PHP Notice:  Undefined variable: text_pin in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 62
+2013-12-17 15:08:55 - PHP Notice:  Undefined variable: text_in in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 63
+2013-12-17 15:09:32 - PHP Notice:  Undefined variable: text_google in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 60
+2013-12-17 15:09:32 - PHP Notice:  Undefined variable: text_pin in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 62
+2013-12-17 15:09:32 - PHP Notice:  Undefined variable: text_in in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 63
+2013-12-17 15:10:00 - PHP Notice:  Undefined variable: text_google in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 60
+2013-12-17 15:10:00 - PHP Notice:  Undefined variable: text_pin in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 62
+2013-12-17 15:10:00 - PHP Notice:  Undefined variable: text_in in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 63
+2013-12-17 15:11:37 - PHP Notice:  Undefined variable: text_google in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 58
+2013-12-17 15:11:37 - PHP Notice:  Undefined variable: text_pin in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 60
+2013-12-17 15:11:37 - PHP Notice:  Undefined variable: text_in in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 61
+2013-12-17 15:12:34 - PHP Notice:  Undefined variable: text_google in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 58
+2013-12-17 15:12:34 - PHP Notice:  Undefined variable: text_pin in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 60
+2013-12-17 15:12:34 - PHP Notice:  Undefined variable: text_in in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 61
+2013-12-17 15:12:50 - PHP Notice:  Undefined variable: text_google in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 58
+2013-12-17 15:12:50 - PHP Notice:  Undefined variable: text_pin in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 60
+2013-12-17 15:12:50 - PHP Notice:  Undefined variable: text_in in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 61
+2013-12-17 15:13:50 - PHP Notice:  Undefined variable: text_google in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 58
+2013-12-17 15:13:50 - PHP Notice:  Undefined variable: text_pin in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 60
+2013-12-17 15:13:50 - PHP Notice:  Undefined variable: text_in in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 61
+2013-12-17 15:15:05 - PHP Notice:  Undefined variable: text_google in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 58
+2013-12-17 15:15:05 - PHP Notice:  Undefined variable: text_pin in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 60
+2013-12-17 15:15:05 - PHP Notice:  Undefined variable: text_in in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 61
+2013-12-17 15:15:25 - PHP Notice:  Undefined variable: text_google in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 58
+2013-12-17 15:15:25 - PHP Notice:  Undefined variable: text_pin in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 60
+2013-12-17 15:15:25 - PHP Notice:  Undefined variable: text_in in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 61
+2013-12-17 15:15:35 - PHP Notice:  Undefined variable: text_google in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 58
+2013-12-17 15:15:35 - PHP Notice:  Undefined variable: text_pin in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 60
+2013-12-17 15:15:35 - PHP Notice:  Undefined variable: text_in in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 61
+2013-12-17 15:16:59 - PHP Notice:  Undefined variable: text_google in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 58
+2013-12-17 15:16:59 - PHP Notice:  Undefined variable: text_pin in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 60
+2013-12-17 15:16:59 - PHP Notice:  Undefined variable: text_in in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 61
+2013-12-17 15:18:27 - PHP Notice:  Undefined variable: text_google in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 58
+2013-12-17 15:18:27 - PHP Notice:  Undefined variable: text_pin in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 60
+2013-12-17 15:18:27 - PHP Notice:  Undefined variable: text_in in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 61
+2013-12-17 15:18:46 - PHP Notice:  Undefined variable: text_google in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 58
+2013-12-17 15:18:46 - PHP Notice:  Undefined variable: text_pin in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 60
+2013-12-17 15:18:46 - PHP Notice:  Undefined variable: text_in in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 61
+2013-12-17 15:19:46 - PHP Notice:  Undefined variable: text_google in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 58
+2013-12-17 15:19:46 - PHP Notice:  Undefined variable: text_pin in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 60
+2013-12-17 15:19:46 - PHP Notice:  Undefined variable: text_in in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 61
+2013-12-17 15:20:08 - PHP Notice:  Undefined variable: text_google in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 58
+2013-12-17 15:20:08 - PHP Notice:  Undefined variable: text_pin in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 60
+2013-12-17 15:20:08 - PHP Notice:  Undefined variable: text_in in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 61
+2013-12-17 15:20:39 - PHP Notice:  Undefined variable: text_google in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 58
+2013-12-17 15:20:39 - PHP Notice:  Undefined variable: text_pin in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 60
+2013-12-17 15:20:39 - PHP Notice:  Undefined variable: text_in in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 61
+2013-12-17 15:21:22 - PHP Notice:  Undefined variable: text_google in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 58
+2013-12-17 15:21:22 - PHP Notice:  Undefined variable: text_pin in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 60
+2013-12-17 15:21:22 - PHP Notice:  Undefined variable: text_in in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 61
+2013-12-17 15:21:40 - PHP Notice:  Undefined variable: text_google in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 58
+2013-12-17 15:21:40 - PHP Notice:  Undefined variable: text_pin in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 60
+2013-12-17 15:21:40 - PHP Notice:  Undefined variable: text_in in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 61
+2013-12-17 15:23:29 - PHP Notice:  Undefined variable: text_google in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 58
+2013-12-17 15:23:29 - PHP Notice:  Undefined variable: text_pin in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 60
+2013-12-17 15:23:29 - PHP Notice:  Undefined variable: text_in in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 61
+2013-12-17 15:23:56 - PHP Notice:  Undefined variable: text_google in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 58
+2013-12-17 15:23:56 - PHP Notice:  Undefined variable: text_pin in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 60
+2013-12-17 15:23:56 - PHP Notice:  Undefined variable: text_in in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 61
+2013-12-17 15:24:37 - PHP Notice:  Undefined variable: text_google in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 58
+2013-12-17 15:24:37 - PHP Notice:  Undefined variable: text_pin in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 60
+2013-12-17 15:24:37 - PHP Notice:  Undefined variable: text_in in C:\wamp\www\332\catalog\view\theme\theme336\template\common\footer.tpl on line 61
+2013-12-18 15:12:18 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\332\system\library\mail.php on line 150
+2013-12-18 16:08:54 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\332\system\library\mail.php on line 150
+2013-12-23 13:22:47 - PHP Notice:  Undefined variable: button_details in C:\wamp\www\336\catalog\view\theme\theme336\template\product\category.tpl on line 116
+2013-12-23 13:22:47 - PHP Notice:  Undefined variable: button_details in C:\wamp\www\336\catalog\view\theme\theme336\template\product\category.tpl on line 116
+2013-12-23 13:22:47 - PHP Notice:  Undefined variable: button_details in C:\wamp\www\336\catalog\view\theme\theme336\template\product\category.tpl on line 116
+2013-12-23 13:22:47 - PHP Notice:  Undefined variable: button_details in C:\wamp\www\336\catalog\view\theme\theme336\template\product\category.tpl on line 116
+2013-12-23 13:22:47 - PHP Notice:  Undefined variable: button_details in C:\wamp\www\336\catalog\view\theme\theme336\template\product\category.tpl on line 116
+2013-12-24 12:43:33 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp\www\336\system\library\mail.php on line 150

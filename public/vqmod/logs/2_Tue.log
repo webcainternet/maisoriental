@@ -1,0 +1,60 @@
+---------- Date: 2013-12-17 10:28:04 ~ IP : 192.168.9.1 ----------
+REQUEST URI : /332/index.php?route=common/home
+MOD DETAILS:
+   modFile   : C:\wamp\www\332\vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : catalog/view/theme/*/template/module/newcarousel.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div title="<?php echo $banner['title']; ?>" data-thumb="<?php echo $banner['image']; ?>" <?php if ($banner['link']) { ?> data-link="<?php echo $banner['link']; ?>"<?php } ?> data-src="<?php echo $banner['image']; ?>">
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-12-17 10:29:05 ~ IP : 192.168.9.1 ----------
+REQUEST URI : /332/index.php?route=common/home
+MOD DETAILS:
+   modFile   : C:\wamp\www\332\vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : catalog/view/theme/*/template/module/newcarousel.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div title="<?php echo $banner['title']; ?>" data-thumb="<?php echo $banner['image']; ?>" <?php if ($banner['link']) { ?> data-link="<?php echo $banner['link']; ?>"<?php } ?> data-src="<?php echo $banner['image']; ?>">
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-12-17 10:31:32 ~ IP : 192.168.9.1 ----------
+REQUEST URI : /332/index.php?route=common/home
+MOD DETAILS:
+   modFile   : C:\wamp\www\332\vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : catalog/view/theme/*/template/module/newcarousel.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div title="<?php echo $banner['title']; ?>" data-thumb="<?php echo $banner['image']; ?>" <?php if ($banner['link']) { ?> data-link="<?php echo $banner['link']; ?>"<?php } ?> data-src="<?php echo $banner['image']; ?>">
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-12-17 10:37:10 ~ IP : 192.168.9.1 ----------
+REQUEST URI : /332/index.php?route=common/home
+MOD DETAILS:
+   modFile   : C:\wamp\www\332\vqmod/xml/tm_description_banner_slideshow.xml
+   id        : Tm description banners
+   version   : 1.5.x
+   vqmver    : 2.3.0
+   author    : TM
+
+File Name    : catalog/view/theme/*/template/module/newcarousel.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div title="<?php echo $banner['title']; ?>" data-thumb="<?php echo $banner['image']; ?>" <?php if ($banner['link']) { ?> data-link="<?php echo $banner['link']; ?>"<?php } ?> data-src="<?php echo $banner['image']; ?>">
+
+----------------------------------------------------------------------
+
+
