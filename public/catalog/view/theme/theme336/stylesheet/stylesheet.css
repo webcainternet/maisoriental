@@ -374,7 +374,7 @@ header #logo a img {
 	}
 header #logo {
 	float:left;
-	margin:8px 0px 15px 0px;
+	margin:0px;
 	}
 #language {
 	color: #777;
@@ -992,7 +992,7 @@ header .links a {
 	display:inline-block;	
 	font-size:16px;
 	color:#fff;
-	line-height:34px;
+	line-height:15px;
 	font-family: 'Roboto Slab', serif;
 	font-weight:normal;
 	padding:16px 15px 20px 15px;
@@ -1001,7 +1001,7 @@ header .top_color{
 	text-align:center;
 	background:#8db699;
 	position:relative;
-	padding:38px 0 44px;
+	padding: 25px 0 25px;
 }
 header .top_color .mini-cart-info{
 	text-align:left;
