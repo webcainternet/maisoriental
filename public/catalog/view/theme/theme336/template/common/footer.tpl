@@ -5,6 +5,13 @@
 <div class="clear"></div>
 </section>
 <footer>
+
+<div style="padding: 0px 0 40px; position: relative;">
+<div class="container">
+	<div class="fb-like" data-href="https://facebook.com/lojavirtual.digital" data-width="1100" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+</div>
+</div>
+
 <div class="footer-top">
 <div class="container">
 	

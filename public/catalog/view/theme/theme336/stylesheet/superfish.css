@@ -50,7 +50,7 @@ ul.sf-menu > li>a:hover, ul.sf-menu > li.sfHover>a, ul.sf-menu > ul > li.active>
 	z-index: 99;
 	position: absolute;
 	z-index: 1005;
-	background-color:#3C9055;
+	background-color:#1f599e;
 	left:0;
 	top:100%;
 }
@@ -142,7 +142,7 @@ ul.sf-menu > li>a:hover, ul.sf-menu > li.sfHover>a, ul.sf-menu > ul > li.active>
 	position:relative;
 }
 #menu-icon:hover:after{
-	color:#98cf36;
+	color:#5187d7;
 }
 #menu-icon:after {
 	float:right;
@@ -181,7 +181,7 @@ ul.sf-menu > li>a:hover, ul.sf-menu > li.sfHover>a, ul.sf-menu > ul > li.active>
   .sf-menu-phone  li > a {padding: 15px 15px 15px 20px; display: block; font-size:14px;}
   .sf-menu-phone  li li  a {padding: 15px 15px 15px 25px; display: block; font-weight:normal;}
   .sf-menu-phone  li li li a {padding: 15px 15px 15px 35px; display: block;}
-  .sf-menu-phone li a:hover { color: #3C9055; }
+  .sf-menu-phone li a:hover { color: #1f599e; }
   .sf-menu-phone li li {font-size: 14px;}
   .sf-menu-phone li li.last { padding-bottom: 0 !important;  }
   .sf-menu-phone li i {
@@ -195,12 +195,12 @@ ul.sf-menu > li>a:hover, ul.sf-menu > li.sfHover>a, ul.sf-menu > ul > li.active>
   .sf-menu-phone  li  i {display:inline-block; top: 9px; color:#777; font-size:14px; line-height:30px; width:30px; height:30px; right:9px; text-align:center;}
    .sf-menu-phone  li i.fa-angle-down:before {content:'\f055' !important}
   .sf-menu-phone  li i.fa-angle-up:before {content:'\f056' !important}
-  .sf-menu-phone li i:hover { cursor: pointer; color:#98cf36;}
+  .sf-menu-phone li i:hover { cursor: pointer; color:#5187d7;}
   .sf-menu-phone li i.opened { background-position: center 7px; }
 
   /** dropdown **/
   .sf-menu-phone ul {  width: auto;  padding: 0px 0px;  display: none;  }
   .sf-menu-phone  li.active > a > span {color: inherit;}
-  .sf-menu-phone  li:hover > a , .sf-menu-phone  li a.active{ color: #3C9055; background: #fcfcfc; }
-  .sf-menu-phone li a:hover {color: #3C9055;}
+  .sf-menu-phone  li:hover > a , .sf-menu-phone  li a.active{ color: #1f599e; background: #fcfcfc; }
+  .sf-menu-phone li a:hover {color: #1f599e;}
   

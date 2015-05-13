@@ -34,13 +34,13 @@
     color: #fff;
 }
 #livesearch_search_results li:hover {
-    background-color: #8db699;
+    background-color: #5187d7;
 }
 #livesearch_search_results .highlighted a {
 	color:#fff;
 }
 #livesearch_search_results .highlighted {
-    background-color: #8db699;
+    background-color: #5187d7;
 }
 #livesearch_search_results li img {
 	overflow:hidden;
