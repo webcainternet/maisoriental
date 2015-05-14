@@ -3919,3 +3919,6 @@ table.radio {margin:0; display:table}
 .account-register #fancybox-content{
 	padding:20px;
 }
+.logg {
+	display: none;
+}
