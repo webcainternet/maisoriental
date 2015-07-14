@@ -64,8 +64,8 @@
 			<div class="social">		
 				<ul>						
 					<li><a href="http://facebook.com" class="tooltip-2" title="<?php echo $text_fb; ?>"><i class="fa fa-facebook"></i></a></li>
-					<li><a href="https://twitter.com" class="tooltip-2" title="<?php echo $text_tw; ?>"><i class="fa fa-twitter"></i></a></li>
-					<li><a href="#" class="tooltip-2" title="<?php echo $text_rss; ?>"><i class="fa fa-rss"></i></a></li>								
+					<?php /* <li><a href="https://twitter.com" class="tooltip-2" title="<?php echo $text_tw; ?>"><i class="fa fa-twitter"></i></a></li>
+					<li><a href="#" class="tooltip-2" title="<?php echo $text_rss; ?>"><i class="fa fa-rss"></i></a></li> */ ?>								
 				</ul>
 			</div>
 			<div class="clear"></div>

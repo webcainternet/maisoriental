@@ -149,6 +149,7 @@ $('body').prepend('<iframe src="<?php echo $store; ?>" style="display: none;"></
 			<?php } else { ?>
 			<?php echo $text_logged; ?>
 			<?php } ?>
+			<li><a class="<?php if (isset($this->request->get['route']) && $this->request->get['route']=="account/wishlist") {echo "active";} ?>" href="/index.php?route=information/contact" id="wishlist-total1"><i class="fa fa-star"></i>Contato</a></li>
 		</ul>
 		<?php echo $language; ?>
 		<?php echo $currency; ?>
@@ -262,6 +263,7 @@ $('body').prepend('<iframe src="<?php echo $store; ?>" style="display: none;"></
 						<li><a class="<?php if (isset($this->request->get['route']) && $this->request->get['route']=="account/account") {echo "active";} ?>" href="<?php echo $account; ?>"><i class="fa fa-user"></i><?php echo $text_account; ?></a></li>
 						<li><a class="<?php if (isset($this->request->get['route']) && $this->request->get['route']=="checkout/cart") {echo "active";} ?>" href="<?php echo $shopping_cart; ?>"><i class="fa fa-shopping-cart"></i><?php echo $text_shopping_cart; ?></a></li>
 						<li><a class="<?php if (isset($this->request->get['route']) && $this->request->get['route']=="checkout/checkout") {echo "active";} ?>" href="<?php echo $checkout; ?>"><i class="fa fa-check"></i><?php echo $text_checkout; ?></a></li>
+						<li><a class="<?php if (isset($this->request->get['route']) && $this->request->get['route']=="account/wishlist") {echo "active";} ?>" href="/index.php?route=information/contact" id="wishlist-total1"><i class="fa fa-star"></i>Contato</a></li>
 						
 					</ul>
 					<div class="clear"></div>
