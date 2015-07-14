@@ -120,6 +120,13 @@ $('body').prepend('<iframe src="<?php echo $store; ?>" style="display: none;"></
 //--></script>
 <?php } ?>
 
+<style type="text/css">
+	header .links a {
+  padding-left: 38px;
+  padding-right: 38px;
+}
+</style>
+
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
